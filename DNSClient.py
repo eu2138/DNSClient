@@ -2,7 +2,7 @@ import dns.resolver
 
 # Set the IP address of the local DNS server and a public DNS server
 local_host_ip = '10.255.255.254'
-real_name_server = 'google.com' # Research public DNS servers to find a valid DNS server IP address to use
+real_name_server = 'ns2.google.com' # Research public DNS servers to find a valid DNS server IP address to use
 
 
 # Create a list of domain names to query - use the same list from the DNS Server
